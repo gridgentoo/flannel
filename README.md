@@ -1,3 +1,7 @@
+Original repository.   
+https://github.com/flannel-io/flannel.    
+
+
 # flannel
 
 ![flannel Logo](logos/flannel-horizontal-color.png)
